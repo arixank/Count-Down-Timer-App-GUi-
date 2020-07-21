@@ -13,8 +13,8 @@ Main file to run : Count Down Timer.py
 
 Requirements : Python , PyQt5 
 
-Since I have used time inbuilt library from python , it was easy to build the structure and later I used this structure to
-to implement in a GUI app !!
+Since I have used time which is an inbuilt library from python , it was easy to build the structure and later I used this structure to
+implement in a GUI app !!
 
 The gui app was made using qt designer and then generated the code as .py from .ui
 later created separate functions for each button and also input for the app !!!
